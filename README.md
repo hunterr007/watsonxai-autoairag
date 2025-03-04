@@ -23,6 +23,7 @@ This process involves:
 - To improve the performance of RAG applications by automatically finding the best configurations.
 - To reduce the amount of expert knowledge needed to create effective RAG pipelines.
 
+Below diagram explains the difference between RAG vs AutoAI RAG-
 ![Untitled diagram-2025-03-04-161641](https://github.com/user-attachments/assets/db5d7a2e-3d5e-4af3-b845-0370659c3da4)
 
 ## Run Milvus on Cloud
