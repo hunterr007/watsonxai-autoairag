@@ -1,12 +1,6 @@
 # watsonxai-autoai-rag
 Auto AI RAG setup by Watsonx.ai
 
-## Run Milvus on Cloud
-Setup Zilliz Cloud and create database-
-
-![image](https://github.com/user-attachments/assets/c44a534b-1f9a-49a7-8469-6ff6d0d8608e)
-
-
 ## RAG vs AutoAI RAG
 
 ### RAG
@@ -28,3 +22,9 @@ To improve the performance of RAG applications by automatically finding the best
 To reduce the amount of expert knowledge needed to create effective RAG pipelines.
 
 ![Untitled diagram-2025-03-04-161641](https://github.com/user-attachments/assets/db5d7a2e-3d5e-4af3-b845-0370659c3da4)
+
+## Run Milvus on Cloud
+Setup Zilliz Cloud and create database-
+
+![image](https://github.com/user-attachments/assets/c44a534b-1f9a-49a7-8469-6ff6d0d8608e)
+
