@@ -7,6 +7,7 @@ Auto AI RAG setup by Watsonx.ai
 RAG enhances large language models (LLMs) by enabling them to retrieve relevant information from external data sources before generating a response.
 - To improve the accuracy and reliability of LLM responses by grounding them in factual data.
 - To enable LLMs to access and utilize up-to-date information beyond their training data.
+
 This process involves:
 - Retrieving relevant documents or data based on a user's query.
 - Providing that retrieved information to the LLM.
