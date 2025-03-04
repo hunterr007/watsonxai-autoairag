@@ -27,6 +27,8 @@ Below diagram explains the difference between RAG vs AutoAI RAG-
 
 ![Untitled diagram-2025-03-04-161641](https://github.com/user-attachments/assets/db5d7a2e-3d5e-4af3-b845-0370659c3da4)
 
+
+
 ## Run Milvus on Cloud
 Setup Zilliz Cloud and create database-
 
