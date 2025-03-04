@@ -17,10 +17,11 @@ This process involves:
 AutoAI RAG automates the process of optimizing RAG pipelines. It is an automation layer built on top of RAG with focuse on optimizing the RAG process itself.
 - It uses automated machine learning (AutoML) techniques to find the best configuration for a RAG system based on specific data and use cases.
 - It also provides a streamlined process for deploying optimized RAG solutions.
+
 This process involves:
-To simplify and accelerate the development and deployment of effective RAG systems.
-To improve the performance of RAG applications by automatically finding the best configurations.
-To reduce the amount of expert knowledge needed to create effective RAG pipelines.
+- To simplify and accelerate the development and deployment of effective RAG systems.
+- To improve the performance of RAG applications by automatically finding the best configurations.
+- To reduce the amount of expert knowledge needed to create effective RAG pipelines.
 
 ![Untitled diagram-2025-03-04-161641](https://github.com/user-attachments/assets/db5d7a2e-3d5e-4af3-b845-0370659c3da4)
 
