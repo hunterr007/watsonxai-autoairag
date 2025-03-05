@@ -22,6 +22,17 @@ Provide 3 different modes-
  
 ![mermaid-diagram-2025-03-05-015629](https://github.com/user-attachments/assets/e73a09bb-3614-44eb-b7c7-f6601ac6e7b0)
 
+## AI Guardrail
+AI guardrails are essential mechanisms designed to ensure that artificial intelligence systems operate within ethical, legal, and technical boundaries.
+They help with-
+- Preventing Bias
+- Promoting Responsible Use
+- Preventing Harmful Outputs
+- Controlling Hallucinations
+- Protecting Sensitive Data
+- Adhering to Regulatory Standards/Compliance
+- Building Trust and Transparency
+
 
 # watsonxai-autoai-rag
 Auto AI RAG setup by Watsonx.ai
