@@ -9,14 +9,14 @@
  
 ## Prompt Lab
 Provide 3 different modes-
-1. Chat
+1. Chat:
    Designed for conversational interactions, mimicking a dialogue.
    Maintains a history of the conversation, allowing the model to build upon previous turns.
-3. Structured
+3. Structured:
    Facilitates the creation of prompts with a defined structure, often used for "few-shot prompting."
    Provides fields for "instruction," "examples," and "test input."
    Enables users to provide examples of desired input-output pairs, guiding the model's behavior.
-5. Freeform
+5. Freeform:
    Offers maximum flexibility, allowing users to write prompts in plain text.
    Suitable for users who are comfortable with prompt engineering and require precise control over the input.
  
