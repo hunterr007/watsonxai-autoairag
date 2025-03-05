@@ -1,3 +1,22 @@
+# Watsonx.ai
+
+- Provide Prompt Lab
+  Chat and build prompts with foundation models 
+- Agent Lab (Beta)
+  Create AI Agents
+- Tuning Studio
+  Tune model with foundation data
+ 
+## Prompt Lab
+Provide 3 different modes-
+1. Chat
+2. Structured
+3. Freeform
+ 
+![mermaid-diagram-2025-03-05-015629](https://github.com/user-attachments/assets/e73a09bb-3614-44eb-b7c7-f6601ac6e7b0)
+
+
+
 # watsonxai-autoai-rag
 Auto AI RAG setup by Watsonx.ai
 
