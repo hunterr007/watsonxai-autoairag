@@ -34,7 +34,7 @@ They help with-
 - Building Trust and Transparency
 
 
-# watsonxai-autoai-rag
+# Watsonx Auto AI RAG
 Auto AI RAG setup by Watsonx.ai
 
 ## RAG vs AutoAI RAG
